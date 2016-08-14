@@ -1,3 +1,3 @@
 # firstrepo
-testing repo creation. It will be deleted as soon as the test is over.
-This is in the master branch.
+testing repo creation.
+updated the doc in the first-feature branch to update to master.
