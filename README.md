@@ -1,2 +1,3 @@
 # firstrepo
-testing repo creation. It will be deleieted as soon as the test is over.
+testing repo creation.
+updated the doc in the first-feature branch.
